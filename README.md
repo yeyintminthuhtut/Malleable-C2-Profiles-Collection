@@ -1,6 +1,6 @@
 # Malleable-C2-Profiles-Collection
 
-This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
+This repository is a collection of Malleable C2 profiles that work with Cobalt Strike 3.x.
 
 Cobalt Strike can modify the behavior of the Beacon payload and these are controlled by the Malleable C2 profile.
 This collection is to used as reference profiles for both red teamers and blue teamers.
